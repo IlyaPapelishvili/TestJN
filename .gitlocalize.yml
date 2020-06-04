@@ -1,0 +1,4 @@
+settings:
+  postprocess_jupyter_notebooks_with_nbfmt_py:
+  - "true"
+ 
